@@ -1,6 +1,5 @@
 # Car Price Prediction 
 
-This is served as Round 2 Intern Homework test  at Vucar.
 ## Project structure
 ~~~
 car_prediction/
